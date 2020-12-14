@@ -1,3 +1,5 @@
+//while parantezi içinde kullanılan ifadeye dikkat edelim
+
 #include <stdio.h>
 
 int main()
