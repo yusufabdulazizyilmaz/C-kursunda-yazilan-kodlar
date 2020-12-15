@@ -1,3 +1,5 @@
+//maximum munch kuralı
+
 #include <stdio.h>
 
 int main()
