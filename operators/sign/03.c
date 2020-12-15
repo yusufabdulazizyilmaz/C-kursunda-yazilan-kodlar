@@ -2,7 +2,7 @@
 
 //sign operator -
 //-x işlemi 0 - x anlamındadır.
-//işaret operatörü -'nin ysn etkisi yoktur
+//işaret operatörü -'nin yan etkisi yoktur
 
 int main()
 {
