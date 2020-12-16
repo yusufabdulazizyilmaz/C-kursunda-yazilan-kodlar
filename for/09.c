@@ -1,3 +1,5 @@
+//e sayısını hesaplıyoruz.
+
 #include <stdio.h>
 
 int factorial(int n)
