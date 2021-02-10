@@ -1,3 +1,5 @@
+//bir yazının tersini yazdıran fonksiyonun "iterative" gerçekleştirimi
+
 #include <stdio.h>
 
 void rprint(const char* pstr)
@@ -7,7 +9,7 @@ void rprint(const char* pstr)
 	for (i = 0; pstr[i] != '\0'; ++i)
 		;
 
-	while (i-- > 0)
+	while (i--)
 		putchar(pstr[i]);
 }
 
