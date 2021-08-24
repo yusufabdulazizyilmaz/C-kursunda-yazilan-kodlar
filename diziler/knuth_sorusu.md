@@ -1,4 +1,4 @@
-Aşağıdaki doğrusal arama kodunda her bir karşılaştırma  ve arttırma birer işlem kabul ediliyor. Dizide aranan değerin bulunaması durumunda _3 \* SIZE_ işlem yapılıyor. Doğrusal arama kodunu _2 \* SIZE_ kez işlem yapılacak şekilde nasıl düzenleyebiliriz?
+Aşağıdaki doğrusal arama kodunda her bir karşılaştırma  ve arttırma birer işlem kabul ediliyor. Dizide aranan değerin bulunaması durumunda _3 \* SIZE_ işlem yapılıyor. Doğrusal arama kodunu _2 \* SIZE_ işlem yapılacak şekilde nasıl düzenleyebiliriz?
 
 ```
 #include <stdio.h>
