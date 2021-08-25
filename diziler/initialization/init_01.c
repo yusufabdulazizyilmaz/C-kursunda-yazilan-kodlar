@@ -1,3 +1,5 @@
+//diziye ilk değer verme (array initialization)
+
 #include <stdio.h>
 
 #define   SIZE   10
